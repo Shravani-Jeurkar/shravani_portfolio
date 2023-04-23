@@ -7,7 +7,7 @@
     <?php include('inc/links.php');?>
     <title>Shravani Milind Jeurkar</title>
 </head>
-<body style="overflow:initial !important;">
+<body >
     <?php include('inc/nav.php');?>
 
     <div class="intro">
@@ -97,11 +97,11 @@
                     <h4>python</h4>
                 </div>
                 <div class="grid-item pop">
-                    <img src="img/logos/new-php-logo.svg" width="90" alt="">
+                    <img src="img/logos/new-php-logo.svg" class="wd" width="90" alt="">
                     <h4>Php</h4>
                 </div>
                 <div class="grid-item pop">
-                <img src="img/logos/java-ar21.svg" alt="">
+                <img src="img/logos/java-ar21.svg" class="wd" alt="">
                     <h4>Java</h4>
                 </div>
                 <div class="grid-item pop">
@@ -127,7 +127,7 @@
         </div>
         <div class="skill-section">
             <h2>Applications:</h2>
-            <div class="grid" style="grid-template-columns: auto auto auto auto;">
+            <div class="grid grid2" >
                 <div class="grid-item pop">
                     <img src="img/logos/git-scm-icon.svg" alt="">
                     <h4>Git</h4>
@@ -137,7 +137,7 @@
                     <h4>Github</h4>
                 </div>
                 <div class="grid-item pop">
-                    <img src="img/logos/jupyter-ar21.svg" alt="">
+                    <img src="img/logos/jupyter-ar21.svg" class="wd" alt="">
                     <h4>Jupyter Notebook</h4>
                 </div>
                 <div class="grid-item pop">
@@ -145,7 +145,7 @@
                     <h4>MySQL</h4>
                 </div>
                 <div class="grid-item pop">
-                <img src="img/logos/phpmyadmin-ar21.svg" alt="">
+                <img src="img/logos/phpmyadmin-ar21.svg" class="wd" alt="">
                     <h4>php My Admn</h4>
                 </div>
                 <div class="grid-item pop">
